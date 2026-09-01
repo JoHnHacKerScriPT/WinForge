@@ -135,8 +135,7 @@ WinForge touches real system settings, so it's built with care:
 - **Custom configuration is sandboxed** — optional user-supplied privacy-toggle
   configs are restricted to a known-safe allowlist of registry paths.
 
-The full source is right here in this repository — nothing is hidden. Read it,
-audit it, or build it yourself from scratch.
+The full source is right here in this repository — nothing is hidden.
 
 ---
 
