@@ -1,0 +1,15 @@
+# PyInstaller build output — regenerate with build_exe.bat, don't commit
+/build/
+/dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Inno Setup output
+/Output/
+
+# OS junk
+Thumbs.db
+.DS_Store
