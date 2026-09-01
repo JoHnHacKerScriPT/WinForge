@@ -6,7 +6,7 @@
 
 ### Windows utilities, refined.
 
-A modern, all-in-one Windows toolkit for tweaks, privacy, maintenance, repair, and more —
+A modern, all-in-one Windows toolkit for tweaks, privacy, maintenance, repair, and more -
 built with Python + PySide6, wrapped in a slick neon dark UI.
 
 ![platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=flat-square)
